@@ -55,6 +55,19 @@ https://osdc.code-maven.com/osdc-2023-01-public/
 * Show blogging platform
     * [DEV](https://dev.to/) - See [my account](https://dev.to/szabgab/)
 
+* We saw the drawing of the GitHub process in the cloud.
+
+* We looked at [CPAN-Digger](https://cpan-digger.perlmaven.com/)
+* We looked at the  [recent on MetaCPAN](https://metacpan.org/recent)
+* We looked at some of the features of GitHub while looking at the [Dancer](https://github.com/PerlDancer/Dancer2/) project. (Insights, list of commits, forks, stars, watch)
+* [The original Markdown](https://daringfireball.net/projects/markdown/syntax)
+* [GitHub flavored Markdown](https://github.github.com/gfm/)
+* [Markdown](https://en.wikipedia.org/wiki/Markdown).
+    * Subtitle
+    * Bullet points
+    * Links
+    * Bold
+
 
 ### Assignment 1
 
@@ -75,6 +88,6 @@ https://osdc.code-maven.com/osdc-2023-01-public/
     * Which open source projects would you like to contribute to.
 * Update your Pull-request adding the URL to the blog post to the `posts` field in the json file.
 
-* There are 3 GitHub repositories with lists of GitHub organization published by [higher education institutions](https://github.com/szabgab/open-source-by-higher-education), [governments](https://github.com/szabgab/open-source-by-government), and [corporations](https://github.com/szabgab/open-source-by-corporations). Find at least 5 more organizations that share some of their code using an open source license in GitHub or GitLab. An organization can be a corporation, a university, a college, a research institute, or a government. (e.g. find a list of universities and use the search feature of GitHub to find **organizations** that belong to the institute).
+* There are 3 GitHub repositories with lists of GitHub organization published by [higher education institutions](https://github.com/szabgab/open-source-by-higher-education), [governments](https://github.com/szabgab/open-source-by-government), and [corporations](https://github.com/szabgab/open-source-by-corporations). Find at least 5 more organizations that share some of their code using an open source license in GitHub or GitLab. An organization can be a corporation, a university, a college, a research institute, or a government. (e.g. find a list of universities and use the search feature of GitHub to find **GitHub organizations** that belong to the institute).
 
 

@@ -68,6 +68,8 @@ https://osdc.code-maven.com/osdc-2023-01-public/
     * Links
     * Bold
 
+* [Video 1-1](https://youtu.be/HPUuiUBMbEE)
+* [Video 1-2](https://youtu.be/qGAVORyZZrI)
 
 ### Assignment 1
 

@@ -1,6 +1,6 @@
 # Open Sorce Development Course for Perl developers - 2023.01
 
-https://osdc.code-maven.com/osdc-2023-01-public/
+https://osdc.code-maven.com/osdc-2023-01-perl/
 
 * Start day: 2023.01.24
 

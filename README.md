@@ -92,5 +92,6 @@ https://osdc.code-maven.com/osdc-2023-01-perl/
 
 * There are 3 GitHub repositories with lists of GitHub organization published by [higher education institutions](https://github.com/szabgab/open-source-by-higher-education), [governments](https://github.com/szabgab/open-source-by-government), and [corporations](https://github.com/szabgab/open-source-by-corporations). Find at least 5 more organizations that share some of their code using an open source license in GitHub or GitLab. An organization can be a corporation, a university, a college, a research institute, or a government. (e.g. find a list of universities and use the search feature of GitHub to find **GitHub organizations** that belong to the institute).
 
+
 ## Session 2 - Create GitHub Pages using the git CLI; Markdown
 

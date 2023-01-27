@@ -34,6 +34,7 @@ jobs:
       uses: osdc-code-maven/osdc-site-generator@v1
 
     - name: Upload artifact
+      if: github.ref == 'refs/heads/main'
       uses: actions/upload-pages-artifact@v1
 
   # Deployment job

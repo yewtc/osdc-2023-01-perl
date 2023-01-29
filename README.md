@@ -92,6 +92,12 @@ https://osdc.code-maven.com/osdc-2023-01-perl/
 
 * There are 3 GitHub repositories with lists of GitHub organization published by [higher education institutions](https://github.com/szabgab/open-source-by-higher-education), [governments](https://github.com/szabgab/open-source-by-government), and [corporations](https://github.com/szabgab/open-source-by-corporations). Find at least 5 more organizations that share some of their code using an open source license in GitHub or GitLab. An organization can be a corporation, a university, a college, a research institute, or a government. (e.g. find a list of universities and use the search feature of GitHub to find **GitHub organizations** that belong to the institute).
 
+A couple of suggestions for the blog posts
+* Use a title that can sound interesting to others as well eg. **How to contribute to an open source project** or  **How to Send a pull request on GitHub**.
+* Add `osdc` tag and other relevant tags.
+* Add the `series:` field to the `Jekyll front matter` (the header of each post on DEV.to)
+* Use Markdown in the post.
+* Include links to the relevant sites and pages such as the web site of the [Open Source Development Course](https://osdc.code-maven.com/) and the web site of our course: [Open Source Development Course for Perl developers](https://osdc.code-maven.com/c/osdc-2023-01-perl).
 
 ## Session 2 - Create GitHub Pages using the git CLI; Markdown
 

@@ -155,6 +155,9 @@ We also saw:
 gitk --all
 ```
 
+* [Video 2-1](https://youtu.be/hQCaeUEKXTo)
+* [Video 2-2](https://youtu.be/BgPN3XcdCBk)
+
 ### Assignment 1
 
 * Set up your own website on github pages

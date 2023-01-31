@@ -8,6 +8,7 @@ https://osdc.code-maven.com/osdc-2023-01-perl/
 
 * [Session 1 - Welcome - Version Control - Journal - Slack](#session-1---welcome---version-control---journal---slack)
 * [Assignment 1](#assignment-1)
+* [Assignment 2](#assignment-2)
 
 ## Session 1 - Welcome - Version Control - Journal - Slack
 
@@ -99,5 +100,76 @@ A couple of suggestions for the blog posts
 * Use Markdown in the post.
 * Include links to the relevant sites and pages such as the web site of the [Open Source Development Course](https://osdc.code-maven.com/) and the web site of our course: [Open Source Development Course for Perl developers](https://osdc.code-maven.com/c/osdc-2023-01-perl).
 
-## Session 2 - Create GitHub Pages using the git CLI; Markdown
+## Session 2 - Create GitHub Pages using the git CLI; GitHub Actions
+
+
+* [HTML - Hyper Text Markup Language](https://en.wikipedia.org/wiki/HTML)
+    * just view source in a browser
+
+* GitHub pages https://cm-demo.github.io/
+    * Plain Markdown files in the `docs/` folder
+    * Configuring GitHub Actions with Jekyll in the `.github/workflows/` folder.  Then we changed the source to be `docs`.
+
+* Git configuration
+
+
+```
+git config --global --add user.name "Foo Bar"
+git config --global --add user.email foo@bar.com
+```
+
+These commands created the `~/.gitconfig` file.
+
+
+```
+sh-keygen  Add public key to GitHub in User setting area
+```
+
+
+```
+git clone
+
+git status
+git diff
+git add
+git commit
+git show SHA
+git push
+git remote -v
+
+git blame
+
+git pull    # both with merge and rebase
+```
+
+In `~/.gitconfig` set the default action for `pull`:
+
+```
+[pull]
+    rebase = true
+```
+
+We also saw:
+
+```
+gitk --all
+```
+
+### Assignment 1
+
+* Set up your own website on github pages
+
+Once it is done add the follwing entry to your JSON file:
+```
+    "github_page": "true",
+```
+
+See the `mentors/szabgab.json` for an example.
+
+
+* Collect the git repositories of the projects you depend on. If CPAN modules then [MetaCPAN](https://metacpan.org/) might have the link.
+* Add them as a list to your JSON file.  See the `mentors/szabgab.json` for an example.
+* Blog about what we learned. Add links. (See my suggestions above how to improve your blog post.) If you feel something is missing from my notes (this file). Feel free to add them with a PR.
+
+
 

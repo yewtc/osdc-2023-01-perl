@@ -4,10 +4,15 @@
     "github": "szabgab",
     "gitlab": "szabgab",
     "devto": "szabgab",
+    "github_page": "true",
     "posts": [
         {
             "url": "https://dev.to/szabgab/open-source-development-courses-5d4b"
         }
+    ],
+    "projects": [
+        "https://github.com/pallets/flask",
+        "https://github.com/metacpan"
     ]
 }
 

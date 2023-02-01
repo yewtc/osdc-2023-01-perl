@@ -3,5 +3,10 @@
     "gitlab": "yewtc",
     "github": "yewtc",
     "devto": "yewtc",
-    "linkedin": "stephen-rogerson-89478317"
+    "linkedin": "stephen-rogerson-89478317",
+    "posts": [
+        {
+            "url": "https://dev.to/yewtc/open-source-development-course-for-perl-developers-4g94"
+        }
+    ]
 }

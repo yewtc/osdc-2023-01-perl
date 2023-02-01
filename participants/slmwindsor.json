@@ -1,4 +1,9 @@
 {
     "name": "Simon Windsor",
-    "github": "slmwindsor"
+    "github": "slmwindsor",
+     "posts": [
+      {
+	     "url": "https://dev.to/slmwindsor/open-source-development-course-for-perl-developers-202301-334i"
+      }
+    ]
 }

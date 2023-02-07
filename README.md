@@ -122,7 +122,7 @@ These commands created the `~/.gitconfig` file.
 
 
 ```
-sh-keygen  Add public key to GitHub in User setting area
+ssh-keygen  Add public key to GitHub in User setting area
 ```
 
 

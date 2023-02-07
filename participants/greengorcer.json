@@ -2,9 +2,18 @@
     "name": "Chenhui Niu",
     "github": "greengorcer",
     "devto": "greengorcer",
+    "github_page": "true",
     "posts": [
       {
 	     "url": "https://dev.to/greengorcer/us-government-agencies-opensource-projects-18kc"
       }
+    ],
+    "projects": [
+        "https://github.com/beyondgrep/ack3",
+        "https://github.com/scikit-rf/scikit-rf",
+	"https://github.com/jupyter/notebook",
+	"https://github.com/pandas-dev/pandas",
+	"https://foss.heptapod.net/openpyxl/openpyxl"
     ]
+	
 }

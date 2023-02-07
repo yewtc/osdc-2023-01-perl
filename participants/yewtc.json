@@ -8,5 +8,14 @@
         {
             "url": "https://dev.to/yewtc/open-source-development-course-for-perl-developers-4g94"
         }
+    ],
+
+    "projects": [
+        "https://github.com/lestrrat-p5/DateTime-Format-Pg",
+        "https://github.com/djzort/perl-WebService-HashiCorp-Vault",
+        "https://github.com/reneeb/Types-RENEEB",
+        "https://github.com/mschout/apache-authcookie",
+        "https://github.com/Perl5/DBIx-Class"
     ]
+
 }

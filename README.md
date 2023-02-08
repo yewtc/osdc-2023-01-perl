@@ -8,7 +8,11 @@ https://osdc.code-maven.com/osdc-2023-01-perl/
 
 * [Session 1 - Welcome - Version Control - Journal - Slack](#session-1---welcome---version-control---journal---slack)
 * [Assignment 1](#assignment-1)
+* [Session 2 - Create GitHub Pages using the git CLI; GitHub Actions](#session-2---create-github-pages-using-the-git-cli-github-actions)
 * [Assignment 2](#assignment-2)
+* [Session 3 - GitHub Actions, CPAN Digger](#session-3---github-actions-cpan-digger)
+* [Assignment 3](#assignment-3)
+* [Assignment 4](#assignment-4)
 
 ## Session 1 - Welcome - Version Control - Journal - Slack
 
@@ -158,7 +162,7 @@ gitk --all
 * [Video 2-1](https://youtu.be/hQCaeUEKXTo)
 * [Video 2-2](https://youtu.be/BgPN3XcdCBk)
 
-### Assignment 1
+### Assignment 2
 
 * Set up your own website on github pages
 
@@ -175,4 +179,40 @@ See the `mentors/szabgab.json` for an example.
 * Blog about what we learned. Add links. (See my suggestions above how to improve your blog post.) If you feel something is missing from my notes (this file). Feel free to add them with a PR.
 
 
+## Session 3 - GitHub Actions, CPAN Digger
 
+* GitHub Actions
+* [GitHub Actions slides](https://code-maven.com/slides/github-ci/actions)
+* [GitHub Actions examles](https://code-maven.com/github-actions)
+
+Specifically we looked at
+* [Bash](https://github.com/szabgab/github-actions-bash)
+* [PostgreSQL](https://github.com/szabgab/github-actions-postgresql/)
+* [Perl with Makefile.PL](https://github.com/szabgab/github-actions-perl-makefile/)
+* [OSDC Site generator](https://github.com/OSDC-Code-Maven/osdc-site-generator)
+
+* [The checkout action](https://github.com/actions/checkout)
+
+* We sent [this Pull Request](https://github.com/richterger/Perl-LanguageServer/pull/168) to the [Perl-LanguageServer](https://github.com/richterger/Perl-LanguageServer)
+* We looked for the GitHub repository of [SPVM-FindBin](https://metacpan.org/dist/SPVM-FindBin), checked out another CPAN module of the same author and found the repo [here](https://github.com/yuki-kimoto/SPVM-FindBin/)
+
+* [Docker Hub](https://hub.docker.com/)
+
+
+* [CPAN Digger](https://cpan-digger.perlmaven.com/)
+
+* We had a short intro to clone/branch/push/pr/pull but we'll cover it again.
+
+* [Video 3-1](https://youtu.be/AmLAHWbvo5I)
+* [Video 3-2](https://youtu.be/tzy9Me3S_jc)
+
+
+### Assignment 3
+
+* Find at least 2 Perl modules on CPAN Digger that has "something missing". Send a pull-request to each one of them.
+    * Look at [CPAN Digger](https://cpan-digger.perlmaven.com/)
+    * Some distributions have a link to their GitHub repositorybut not to the "issues".
+    * Some distributions don't have a link to their GitHub. In some cases it isn't hard to track down the repository and then you can change it to make it include the links to the GitHub repository and to the issues.
+* Blog about them!
+
+### Assignment 4

@@ -5,5 +5,10 @@
       {
 	     "url": "https://dev.to/slmwindsor/open-source-development-course-for-perl-developers-202301-334i"
       }
+    ],
+    "projects": [
+        "https://metacpan.org/pod/DBI",
+	"https://metacpan.org/pod/DBD::Oracle",
+	"https://metacpan.org/pod/DBD::Pg"
     ]
 }

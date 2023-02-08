@@ -185,6 +185,19 @@ See the `mentors/szabgab.json` for an example.
 * [GitHub Actions slides](https://code-maven.com/slides/github-ci/actions)
 * [GitHub Actions examles](https://code-maven.com/github-actions)
 
+Specifically we looked at
+* [Bash](https://github.com/szabgab/github-actions-bash)
+* [PostgreSQL](https://github.com/szabgab/github-actions-postgresql/)
+* [Perl with Makefile.PL](https://github.com/szabgab/github-actions-perl-makefile/)
+* [OSDC Site generator](https://github.com/OSDC-Code-Maven/osdc-site-generator)
+
+* [The checkout action](https://github.com/actions/checkout)
+
+* We sent [this Pull Request](https://github.com/richterger/Perl-LanguageServer/pull/168) to the [Perl-LanguageServer](https://github.com/richterger/Perl-LanguageServer)
+* We looked for the GitHub repository of [SPVM-FindBin](https://metacpan.org/dist/SPVM-FindBin), checked out another CPAN module of the same author and found the repo [here](https://github.com/yuki-kimoto/SPVM-FindBin/)
+
+* [Docker Hub](https://hub.docker.com/)
+
 
 * [CPAN Digger](https://cpan-digger.perlmaven.com/)
 

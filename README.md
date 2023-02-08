@@ -10,7 +10,9 @@ https://osdc.code-maven.com/osdc-2023-01-perl/
 * [Assignment 1](#assignment-1)
 * [Session 2 - Create GitHub Pages using the git CLI; GitHub Actions](#session-2---create-github-pages-using-the-git-cli-github-actions)
 * [Assignment 2](#assignment-2)
+* [Session 3 - GitHub Actions, CPAN Digger](#session-3---github-actions-cpan-digger)
 * [Assignment 3](#assignment-3)
+* [Assignment 4](#assignment-4)
 
 ## Session 1 - Welcome - Version Control - Journal - Slack
 
@@ -200,3 +202,4 @@ See the `mentors/szabgab.json` for an example.
     * Some distributions don't have a link to their GitHub. In some cases it isn't hard to track down the repository and then you can change it to make it include the links to the GitHub repository and to the issues.
 * Blog about them!
 
+### Assignment 4
